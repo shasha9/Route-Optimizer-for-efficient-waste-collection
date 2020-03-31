@@ -8,7 +8,7 @@ Intvisited[size_max],count,mindistance,nextnode,i,j;//count gives the number of 
 //create the cost matrix
 for(i=0;i<n;i++)
 for(j=0;j<n;j++)
-cost[i][j]=Graph[i][j];
+cost[i][j]=  Graph[i][j];
 
 
 
@@ -21,7 +21,7 @@ visited[i]=0;
 }
 
 distance[src]=0;
-visited[src]=1;
+visited[src]=1;//keeps a count of visited nodes
 count=1;
 
 while(count<n-1)
