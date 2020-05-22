@@ -10,7 +10,7 @@ return;
 printPath(path, v, path[v][u]);
 printf("%d ", path[v][u]);
 }
-// Function to run Floyd-Warshell algorithm
+// Function to run Floyd-Warshall algorithm
 void FloydWarshell(int adjMatrix[size_max][size_max],int N)
 {
 // cost[] and parent[] stores shortest-path
@@ -27,7 +27,7 @@ else if (cost[i][j] != INT_MAX)
 path[i][j] = i;
 }
 }
-// run Floyd-Warshell
+// run Floyd-Warshall algorithm
 for (int k = 0; k < N; k++)
 {
 for (int i = 0; i < N; i++)
