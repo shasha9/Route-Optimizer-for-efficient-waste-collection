@@ -5,7 +5,7 @@ void dijkstra(int Graph[size_max][size_max],int n , int src) /*Method to impleme
 Intcost[size_max][size_max],distance[size_max],pred[size_max];     //pred[] stores the predecessor of each node
 Intvisited[size_max],count,mindistance,nextnode,i,j;//count gives the number of nodes seen so far
 
-//create the cost matrix
+//create the cost matrix which holds weights og the edges
 for(i=0;i<n;i++)
 for(j=0;j<n;j++)
 cost[i][j]=Graph[i][j];
