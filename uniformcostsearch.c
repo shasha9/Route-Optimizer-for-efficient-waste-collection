@@ -22,8 +22,8 @@ return a.weight<b.weight;
 }
 void ENQ(int N, int cost)
 {
-q.n = N;
-q.weight = cost;
+q.n=N;
+q.weight=cost;
 vec_queue.push_back(q);
 }
 void uniform_cost_search()
