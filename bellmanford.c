@@ -15,11 +15,11 @@ void BellmanFord( int edges[][3] ,int V, int E, int source)
 int parent[V+1],dis[V+1];
 for (int i = 1; i <= V; i++)
 {
-dis[i] = INT_MAX;
+dis[i] =INT_MAX;
 parent[i]=-1;
 }
-dis[source] = 0;
-for (int i = 0; i < V - 1; i++)
+dis[source] =0;
+for (int i =0; i < V - 1; i++)
 {
 for (int j = 0; j < E; j++)
 {
