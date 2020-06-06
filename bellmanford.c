@@ -21,9 +21,9 @@ parent[i]=-1;
 dis[source] =0;
 for (int i =0; i < V - 1; i++)
 {
-for (int j = 0; j < E; j++)
+for(int j = 0; j < E; j++)
 {
-if (dis[edges[j][0]] + edges[j][2] < dis[edges[j][1]])
+if(dis[edges[j][0]] + edges[j][2] < dis[edges[j][1]])
 {
 dis[edges[j][1]] =  dis[edges[j][0]] + edges[j][2];
 parent[edges[j][1]]=edges[j][0] ;
