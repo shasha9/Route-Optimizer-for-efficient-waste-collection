@@ -9,7 +9,7 @@ Our goal is to visit every node (household) on an optimal route to eliminate was
 
 Optimization of route for the vehicle will help it in visiting only those houses which it has not visited previously. The current research is to study and compare the four algorithms i.e. BFS, A*,uniform cost search and Floyd Warshall algorithm to find out which is the best suited for developing route optimizer for efficient waste collection such that every node is visited at least once on an optimal route. Our project will help to overcome the drawback of existing waste collection vehicles which travel on redundant paths and thus take more time and consume more fuel.
 
-We believe that our idea can contribute in efficient waste collection to some extent. This will save time and the same vehicle will be able to visit more areas. Thus, this solution will be an economically better choice against the vehicle following redundant paths. This will also help in reducing the spread of diseases like lung and skin infections which are caused by reckless disposal of garbage. After trying this solution for a small area, it can also be extended to an entire town or district for efficient waste collection.
+We believe that our idea can contribute in efficient waste collection to some extent. This will save time and the same vehicle will be able to visit more areas. Thus, this solution will be an economically better choice against the vehicle following redundant paths. This will also help in reducing the spread of diseases like lung and skin infections which are caused by reckless disposal of garbage. After trying this solution for a small area,it can also be extended to an entire town or district for efficient waste collection.
 
 ## METHODOLOGY
 
