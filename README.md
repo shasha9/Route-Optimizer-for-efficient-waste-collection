@@ -22,6 +22,9 @@ transportation. The proposed scheme optimizes transportation cost of each part o
 
 ## SCREENSHOTS
 
+# Map selected:
+![](images/map.png)
+
 
 
 
