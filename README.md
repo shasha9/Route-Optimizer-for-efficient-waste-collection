@@ -20,6 +20,7 @@ After that we will analyze which algorithm is the best in finding the optimal ro
 Each part contains huge amount of cost for waste collection or waste material
 transportation. The proposed scheme optimizes transportation cost of each part of the system. Therefore, the total waste management cost for the whole system is optimized.
 
+## SCREENSHOTS
 
 
 
