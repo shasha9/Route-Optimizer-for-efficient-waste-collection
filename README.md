@@ -28,6 +28,19 @@ transportation. The proposed scheme optimizes transportation cost of each part o
 # Graph formed:
 ![](images/graph.png)
 
+# Dijkstra algorithm:
+![](images/dijkstra.png)
+
+# Floyd Warshall algorithm:
+![](images/floyd.png)
+
+# Bellmann Ford algorithm:
+![](images/bellmann.png)
+
+# Uniform Cost Search algorithm:
+![](images/ucs.png)
+
+
 
 
 
